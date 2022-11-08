@@ -4,10 +4,18 @@
 
 using namespace std;
 
-class nome_da_classe{
+class cadastro_especie{
   private:
-    int numero_species;
+    string reino;
+    string genero;
+    string especie;
+    string habitate;
+    string regiao;
+    boll   extincao;
   public:
+    void exibir(){
+      
+    }
 };
 
 int main(){
