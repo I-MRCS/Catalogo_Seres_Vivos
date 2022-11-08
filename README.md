@@ -9,7 +9,9 @@ assim como outras bastante específicas:
 - características visíveis do animal ou planta;
 - local onde é encontrado,
 - perigo de extinção, etc.
-  Os animais ou plantas podem ser classificados e possuirem características em comum dependendo de sua classificação biológica, por exemplo: cachoros e vacas são mamíferos, então compartilham suas características, mas cada um possui suas particularidades. O sistema deve ser capaz de emitir diversos relatórios descrevendo várias informações sobre o conjunto geral ou subconjuntos das espécies encontradas pelo pesquisador. Por exemplo:
+
+  Os animais ou plantas podem ser classificados e possuirem características em comum dependendo de sua classificação biológica, por exemplo: cachoros e vacas são mamíferos, então compartilham suas características, mas cada um possui suas particularidades. O sistema deve ser capaz de emitir diversos relatórios escrevendo várias informações sobre o conjunto geral ou subconjuntos das espécies encontradas pelo pesquisador. Por exemplo:
+  
 • Que espécies estão em perigo de extinção?
 • Que espécies são encontradas na região Nordeste?
 • Que espécies são aquáticas?
